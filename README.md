@@ -1,7 +1,7 @@
                                         Hi 👋, I'm Vikash Singhal
 ___________________________________________________________________________________________________________
 
-- 📊 I worked in MERN Stack at Aarvy Teachnology
+- 📊 I worked in MERN Stack
 - 👨‍🎓 I'm a Software Engineering Student
 - 🌱 I’m currently learning MERN
 - ⚡ Fun fact I can speak Mandarin :)
